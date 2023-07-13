@@ -1,0 +1,36 @@
+{
+  "Authors": [
+    {
+      "id": 1,
+      "author": "George Martin"
+    },
+    {
+      "id": 2,
+      "author": "Stephen Edwin King"
+    },
+    {
+      "id": 3,
+      "author": "Adam Silvera"
+    },
+    {
+      "id": 4,
+      "author": "Serglo Del Molino"
+    },
+    {
+      "id": 5,
+      "author": "J. K. Rowling"
+    },
+    {
+      "id": 6,
+      "author": "Colleen Hoover"
+    },
+    {
+      "id": 7,
+      "author": "Taylor Jenkins Reid"
+    },
+    {
+      "id": 8,
+      "author": "Ilu Ros"
+    }
+  ]
+}
